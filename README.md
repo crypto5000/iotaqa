@@ -4,4 +4,4 @@ IOTAQA is a question and answer site that uses the IOTA protocol. You can post a
 IOTAQA is available at [https://iotaqa.com](https://iotaqa.com)
 
 # demo
-![alt text](https://github.com/crypto5000/iotado/blob/master/src/demo2.gif "Demo")
+![alt text](https://github.com/crypto5000/iotaqa/blob/master/src/demo2.gif "Demo")
